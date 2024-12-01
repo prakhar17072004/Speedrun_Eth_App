@@ -41,5 +41,11 @@
   },
   "engines": {
     "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "@metamask/sdk": "^0.31.1",
+    "@typechain/ethers-v5": "latest",
+    "ethers": "latest",
+    "react-i18next": "latest"
   }
 }
